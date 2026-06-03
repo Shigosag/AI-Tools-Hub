@@ -83,15 +83,6 @@ git clone https://github.com/Shigosag/AI-Tools-Hub.git
 cd AI-Tools-Hub
 ```
 
-## Run Frontend
-```bash
-cd client
-npm install
-npm run dev
-```
-
-## 🌐 Frontend URL: http://localhost:3000
-
 ## Run Backend
 ```bash
 cd server
@@ -100,6 +91,15 @@ npm run dev
 ```
 
 ## 🌐 Backend URL: http://localhost:5000
+
+## Run Frontend
+```bash
+cd client
+npm install
+npm run dev
+```
+
+## 🌐 Frontend URL: http://localhost:3000
 
 ---
 
