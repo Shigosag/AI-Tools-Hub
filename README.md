@@ -77,6 +77,9 @@ AI-Tools-Hub/
 
 ## ⚙️ Installation & Setup
 
+## Prerequisites
+- Node.js (v18+)
+
 ## Clone Repository
 ```bash
 git clone https://github.com/Shigosag/AI-Tools-Hub.git
