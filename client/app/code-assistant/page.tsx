@@ -9,14 +9,16 @@ export default function CodeAssistantPage() {
         Powered by Shigosag
       </p>
 
-      <textarea
-        placeholder="Enter your prompt..."
-        className="w-full max-w-2xl h-40 bg-zinc-900 border border-red-500/30 rounded-xl p-4"
-      />
+      <div className="w-full max-w-2xl">
+        <textarea
+          placeholder="Enter your prompt..."
+          className="w-full h-40 bg-zinc-900 border border-red-500/30 rounded-xl p-4"
+       />
 
-      <button className="mt-4 bg-red-600 hover:bg-red-500 px-6 py-3 rounded-xl">
-        Generate
-      </button>
+        <button className="w-full bg-red-600 hover:bg-red-500 px-6 py-3 rounded-xl">
+         Generate
+       </button>
+      </div>
     </main>
   );
 }
