@@ -6,6 +6,8 @@
 
 A modern full-stack AI tools demo platform built with Next.js, TypeScript, Express.js, Tailwind CSS, and scalable production-style architecture.
 
+![AT Tools Hub Dashboard](screenshots/dashboard.png)
+
 ---
 
 ## ✨ Features
@@ -78,6 +80,20 @@ AI-Tools-Hub/
 ├── README.md
 └── .env
 ```
+
+---
+
+## 🖼️ Feature Screenshots
+
+| AI Text Generator | AI Code Assistant |
+| :---: | :---: |
+| ![Text](screenshots/text.png) | ![Assistant](screenshots/assistant.png) |
+
+| AI Summarizer | AI Email Generator |
+| :---: | :---: |
+| ![Summarizer](screenshots/summarizer.png) | ![Email](screenshots/email.png) |
+
+---
 
 ## ⚙️ Installation & Setup
 
